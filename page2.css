@@ -96,7 +96,8 @@ transform: scale(1.5);
 body {
     background-image: linear-gradient(to bottom, #000435 0%, #000435 22%, white 22%, white 100%);
     }
-  /*.type1{
+  
+    /*.type1{
     width: 60%;
     display: block;
     margin: 0px auto;
@@ -109,6 +110,7 @@ body {
     transform: translate(-10%,-10%);
     border-radius: 50%;
 }
+
 
 
 p {
